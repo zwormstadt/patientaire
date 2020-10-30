@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323352300281",
+    "firebase_url": "https://sanfordapp.firebaseio.com",
+    "project_id": "sanfordapp",
+    "storage_bucket": "sanfordapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323352300281:android:14d652b947354c7cda7028",
+        "android_client_info": {
+          "package_name": "com.example.sanford"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323352300281-vsn2je6qbga6e9f5u05od9m9geg7k9ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKObWxHWhj56e-7hK8hf8IxbQqQQISHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323352300281-vsn2je6qbga6e9f5u05od9m9geg7k9ma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323352300281-u9uj0cgj9hvvqc70pol5htoouj2hh5jf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sanford"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
